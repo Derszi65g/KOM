@@ -1,0 +1,51 @@
+/* Tablas equilibradas para notas de consulta (glosario, errores).
+
+   Uso: agregar al frontmatter de la nota
+     cssclasses:
+       - wide-tables
+       - compact-table
+
+   Filosofía: no estirar al 100% (se desparrama), ni dejar el límite de
+   Obsidian (~700px), que apretuja las celdas. Punto medio: contenedor ancho
+   y centrado, y tablas con solo separadores horizontales. */
+
+/* 1) Contenedor más ancho que el default, pero acotado y centrado.
+      75em ~ 1200px. Si se quiere más ancho, aumentar este número. */
+.wide-tables {
+  --file-line-width: 75em !important;
+}
+.wide-tables .markdown-source-view,
+.wide-tables .markdown-preview-view {
+  max-width: none;
+}
+
+/* 2) Tablas: ocupan el contenedor completo */
+.wide-tables table,
+.compact-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* 3) Estilo calmo: solo líneas horizontales, sin rejilla vertical.
+      Encabezado separado con línea gruesa; filas alternadas apenas
+      sombreadas para seguir la lectura sin que grite. */
+.compact-table table {
+  font-size: 0.95em;
+}
+.compact-table th,
+.compact-table td {
+  border: none;
+  padding: 6px 12px;
+  line-height: 1.55;
+  vertical-align: top;
+  text-align: left;
+}
+.compact-table thead th {
+  border-bottom: 2px solid var(--background-modifier-border);
+}
+.compact-table tbody td {
+  border-bottom: 1px solid var(--table-border-color, var(--background-modifier-border));
+}
+.compact-table tbody tr:nth-child(even) {
+  background: var(--background-secondary);
+}

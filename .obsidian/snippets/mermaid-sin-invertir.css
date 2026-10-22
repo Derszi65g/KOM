@@ -1,0 +1,5 @@
+/* Desactiva la inversión automática de Obsidian sobre diagramas mermaid en modo oscuro.
+   Así los colores definidos en el bloque %%{init}%% y classDef se respetan tal cual. */
+.theme-dark .mermaid svg {
+  filter: none !important;
+}

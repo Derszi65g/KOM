@@ -1,0 +1,7 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "mermaid-sin-invertir",
+    "tablas-anchas"
+  ]
+}

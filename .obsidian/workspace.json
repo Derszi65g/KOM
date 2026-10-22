@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "eb448ef371f1fcf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b1d91cd424ca69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd88ce8d825628d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Ecuaciones Cuadráticas y Bhaskara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Ecuaciones Cuadráticas y Bhaskara"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a68b7696a443a3c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a919bea3ea090e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aeaac327ab77360",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ef7b71fa72c921f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#glosario/conjuntos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "992972e60176ddd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.5
+  },
+  "right": {
+    "id": "3f9fe5ae7a2f2ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c1fc8dbea12f471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc00c04b90cae8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-indice-maestro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "8d713c8a5a9b33a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-indice-maestro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "506449c4c34698d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "63e385fdde2a3b07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e572ae18bc06a45e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-indice-maestro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3bd88ce8d825628d",
+  "lastOpenFiles": [
+    "06 - Sistemas de Ecuaciones.md",
+    "05 - Ecuaciones Cuadráticas y Bhaskara.md",
+    "00-indice-maestro.md",
+    "01 - Conjuntos Numéricos y Lógica.md",
+    "02 - Propiedad Distributiva.md",
+    "03 - Cuadrado de un Binomio.md",
+    "04 - Ecuaciones Lineales y Proporcionalidad.md",
+    "07 - Teorema de Pitágoras.md",
+    "08 - Trigonometría y Circunferencia Unitaria.md",
+    "09 - Inecuaciones y Valor Absoluto.md",
+    "10 - Funciones y Probabilidades.md",
+    "97 - Temas Pendientes por Agregar.md",
+    "99 - Glosario Rápido.md",
+    "98 - Errores Comunes.md",
+    "figuras/red-conocimiento.svg",
+    "figuras/venn.svg",
+    "figuras/circulo-unitario.svg",
+    "figuras/pitagoras.svg",
+    "figuras/sistema-2x2.svg",
+    "figuras/distributiva.svg",
+    "figuras",
+    "Bienvenido.md",
+    "02-propiedad-distributiva.md",
+    "04-ecuaciones-lineales-y-proporcionalidad.md",
+    "01-conjuntos-numericos-y-logica.md",
+    "10-funciones-y-probabilidades.md",
+    "09-inecuaciones-y-valor-absoluto.md",
+    "08-trigonometria-y-circunferencia-unitaria.md",
+    "07-teorema-de-pitagoras.md",
+    "06-sistemas-de-ecuaciones.md",
+    "05-ecuaciones-cuadraticas-y-bhaskara.md"
+  ]
+}
