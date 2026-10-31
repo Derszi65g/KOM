@@ -100,6 +100,9 @@ graph TD
 13. **[[97 - Temas Pendientes por Agregar]]**
     *Ruta de crecimiento del vault: temas futuros en formato checklist, cada uno con su nota raíz de la red actual.*
 
+14. **Directorio `conceptos/` (Fichas Atómicas)**  
+    *Fichas breves e hipervinculadas ([[conceptos/Término|Término]], [[conceptos/Factor|Factor]], [[conceptos/Producto|Producto]], [[conceptos/Factorizar|Factorizar]], [[conceptos/Simplificar|Simplificar]], [[conceptos/Cancelar|Cancelar]], [[conceptos/Cociente|Cociente]], [[conceptos/Variable|Variable]]) para consultar términos aislados sin perder el hilo de las lecciones.*
+
 ---
 
 > [!TIP] Modo de uso en Obsidian

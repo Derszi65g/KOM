@@ -190,6 +190,15 @@
   },
   "active": "3bd88ce8d825628d",
   "lastOpenFiles": [
+    "conceptos/Variable.md",
+    "conceptos/Cociente.md",
+    "conceptos/Cancelar.md",
+    "conceptos/Simplificar.md",
+    "conceptos/Factorizar.md",
+    "conceptos/Producto.md",
+    "conceptos/Factor.md",
+    "conceptos/Término.md",
+    "conceptos",
     "03.1 - Métodos de Factorización y Productos Notables.md",
     "00-indice-maestro.md",
     "05 - Ecuaciones Cuadráticas y Bhaskara.md",
@@ -215,13 +224,6 @@
     "figuras",
     "Bienvenido.md",
     "02-propiedad-distributiva.md",
-    "04-ecuaciones-lineales-y-proporcionalidad.md",
-    "01-conjuntos-numericos-y-logica.md",
-    "10-funciones-y-probabilidades.md",
-    "09-inecuaciones-y-valor-absoluto.md",
-    "08-trigonometria-y-circunferencia-unitaria.md",
-    "07-teorema-de-pitagoras.md",
-    "06-sistemas-de-ecuaciones.md",
-    "05-ecuaciones-cuadraticas-y-bhaskara.md"
+    "04-ecuaciones-lineales-y-proporcionalidad.md"
   ]
 }
