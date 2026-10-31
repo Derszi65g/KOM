@@ -45,6 +45,7 @@ $$\frac{1}{3}\cdot\frac{4}{4} + \frac{1}{4}\cdot\frac{3}{3} = \frac{4}{12} + \fr
 
 ## Conexiones con otras Notas
 
+- **Base previa**: Se apoya en la distinción entre términos y factores de [[01.1 - Estructura Algebraica: Términos, Factores y Simplificación|la estructura algebraica]].
 - **Siguiente paso**: Se utiliza de manera directa para [[03 - Cuadrado de un Binomio|desarrollar el cuadrado de un binomio]].
 - **Uso en Ecuaciones**: Base para simplificar términos [[04 - Ecuaciones Lineales y Proporcionalidad|al despejar]].
 - **Uso en Factorización**: Crucial para [[05 - Ecuaciones Cuadráticas y Bhaskara|completar el cuadrado]].

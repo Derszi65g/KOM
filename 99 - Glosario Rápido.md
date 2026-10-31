@@ -98,8 +98,11 @@ cssclasses:
 | Término                | Notación                    | Es igual a                                                                                               |
 | ---------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Propiedad Distributiva | $a(b+c) = ab + ac$          | El multiplicador "rompe" el paréntesis distribuyéndose sobre cada término                                |
-| Factor                 | —                           | Cada cantidad que se multiplica en un producto                                                           |
-| Término                | —                           | Cada parte de una expresión separada por $+$ o $-$                                                       |
+| Factor                 | —                           | Cada cantidad que se multiplica en un producto ([[01.1 - Estructura Algebraica: Términos, Factores y Simplificación\|nota]]) |
+| Término                | —                           | Cada parte de una expresión separada por $+$ o $-$ ([[01.1 - Estructura Algebraica: Términos, Factores y Simplificación\|nota]]) |
+| Simplificación         | —                           | Reescribir una expresión en una forma equivalente más compacta y útil sin alterar su valor              |
+| Cancelación aditiva    | $a - a = 0$                 | Anulación de términos opuestos mediante el neutro aditivo ($0$)                                          |
+| Cancelación multiplicativa | $\frac{a}{a} = 1$       | Reducción de factores idénticos al neutro multiplicativo ($1$, con $a \neq 0$). Solo en factores, nunca en términos de una suma |
 | Binomio                | $(a+b)$                     | Expresión con dos términos; su cuadrado se desarrolla [[03 - Cuadrado de un Binomio\|rompiendo el paréntesis]]                 |
 | Fracción               | $\frac{a}{b}$               | Cociente $a \div b$; $a$ = **numerador** (arriba), $b$ = **denominador** (abajo)                         |
 | Numerador              | —                           | El número de arriba de una fracción: cuántas partes se toman                                             |

@@ -15,10 +15,12 @@ Bienvenido a la red interconectada de notas matemáticas basadas en las clases d
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"background": "transparent", "primaryTextColor": "#2b3242", "fontSize": "12px", "lineColor": "#97a2b4"}, "flowchart": {"nodeSpacing": 22, "rankSpacing": 34, "padding": 6}}}%%
 graph TD
-    N01["[[01 - Conjuntos Numéricos y Lógica]]"] --> N02["[[02 - Propiedad Distributiva]]"]
-    N01 --> N04["[[04 - Ecuaciones Lineales y Proporcionalidad]]"]
+    N01["[[01 - Conjuntos Numéricos y Lógica]]"] --> N01_1["[[01.1 - Estructura Algebraica: Términos, Factores y Simplificación]]"]
     N01 --> N09["[[09 - Inecuaciones y Valor Absoluto]]"]
     N01 --> N10["[[10 - Funciones y Probabilidades]]"]
+    
+    N01_1 --> N02["[[02 - Propiedad Distributiva]]"]
+    N01_1 --> N04["[[04 - Ecuaciones Lineales y Proporcionalidad]]"]
     
     N02 --> N03["[[03 - Cuadrado de un Binomio]]"]
     N02 --> N05["[[05 - Ecuaciones Cuadráticas y Bhaskara]]"]
@@ -41,7 +43,7 @@ graph TD
     classDef geometria fill:#e4dcfa,stroke:#b5a7e3,color:#2b3242
     classDef avanzado fill:#ffe3cf,stroke:#f2ba94,color:#2b3242
 
-    class N01,N02 bases
+    class N01,N01_1,N02 bases
     class N03,N04,N05,N06 algebra
     class N07,N08 geometria
     class N09,N10 avanzado
@@ -53,6 +55,9 @@ graph TD
 
 1. **[[01 - Conjuntos Numéricos y Lógica]]**  
    *Bases del razonamiento, operaciones de conjuntos ($\cup, \cap$), implicación lógica ($P \Rightarrow Q$) y evolución del conteo ($\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{I}, \mathbb{R}$).*
+
+1.1. **[[01.1 - Estructura Algebraica: Términos, Factores y Simplificación]]**  
+   *El salto de la aritmética al álgebra: expresiones como objetos/variables, términos vs. factores, qué es realmente simplificar y desmitificación de la cancelación mágica.*
 
 2. **[[02 - Propiedad Distributiva]]**  
    *El pilar del álgebra: $a(b+c) = ab + ac$. Explicación intuitiva con áreas cuadradas y su aplicación para romper paréntesis.*

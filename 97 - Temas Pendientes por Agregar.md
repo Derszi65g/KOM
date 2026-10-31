@@ -69,3 +69,11 @@ type: roadmap
 - **Índice y red**: esta lista es el plan de crecimiento de [[00-indice-maestro|la red del curso]].
 - **Errores**: al agregar temas nuevos, actualizar también [[98 - Errores Comunes|la lista de errores]] (cada tema trae sus trampas).
 - **Vocabulario**: cada nota nueva debe dejar sus términos en el [[99 - Glosario Rápido|glosario]].
+
+
+
+### notas humanas
+
+X=X
+que es la identidad 
+![[Pasted image 20261022175949.png]]

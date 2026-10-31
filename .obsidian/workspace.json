@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Ecuaciones Cuadráticas y Bhaskara.md",
+                "file": "01.1 - Estructura Algebraica: Términos, Factores y Simplificación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Ecuaciones Cuadráticas y Bhaskara"
+              "title": "01.1 - Estructura Algebraica: Términos, Factores y Simplificación"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#glosario/conjuntos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,24 +190,25 @@
   },
   "active": "3bd88ce8d825628d",
   "lastOpenFiles": [
-    "06 - Sistemas de Ecuaciones.md",
-    "05 - Ecuaciones Cuadráticas y Bhaskara.md",
     "00-indice-maestro.md",
-    "01 - Conjuntos Numéricos y Lógica.md",
+    "05 - Ecuaciones Cuadráticas y Bhaskara.md",
+    "figuras/pitagoras.svg",
+    "97 - Temas Pendientes por Agregar.md",
+    "Pasted image 20261022175949.png",
+    "98 - Errores Comunes.md",
     "02 - Propiedad Distributiva.md",
+    "06 - Sistemas de Ecuaciones.md",
+    "01 - Conjuntos Numéricos y Lógica.md",
     "03 - Cuadrado de un Binomio.md",
     "04 - Ecuaciones Lineales y Proporcionalidad.md",
     "07 - Teorema de Pitágoras.md",
     "08 - Trigonometría y Circunferencia Unitaria.md",
     "09 - Inecuaciones y Valor Absoluto.md",
     "10 - Funciones y Probabilidades.md",
-    "97 - Temas Pendientes por Agregar.md",
     "99 - Glosario Rápido.md",
-    "98 - Errores Comunes.md",
     "figuras/red-conocimiento.svg",
     "figuras/venn.svg",
     "figuras/circulo-unitario.svg",
-    "figuras/pitagoras.svg",
     "figuras/sistema-2x2.svg",
     "figuras/distributiva.svg",
     "figuras",

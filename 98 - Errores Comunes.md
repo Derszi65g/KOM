@@ -22,7 +22,7 @@ cssclasses:
 | $(a+b)^2 = a^2 + b^2$ | $(a+b)^2 = a^2 + 2ab + b^2$ | Olvidar los [[03 - Cuadrado de un Binomio\|dos productos cruzados]] $ab + ba = 2ab$ que produce el desarrollo |
 | $\sqrt{a+b} = \sqrt{a} + \sqrt{b}$ | No existe tal descomposición | Tratar la raíz como si fuera [[02 - Propiedad Distributiva\|distributiva]], que **solo** rompe paréntesis de multiplicación |
 | Sumar fracciones como $\frac{a}{c} + \frac{b}{d} = \frac{a+b}{c+d}$ | $\frac{a d + b c}{c d}$ | Confundir "denominador común" con "sumar denominadores": se compone todo con el [[99 - Glosario Rápido#3. Aritmética y Álgebra\|neutro multiplicativo]] $\frac{4}{4}, \frac{3}{3}$ |
-| Cancelar "términos" en una suma: $\frac{a + b}{a} \neq \frac{b}{a}$ (correcto: $1 + \frac{b}{a}$) | Cancelación solo en **productos** ($\frac{ab}{ac} = \frac{b}{c}$, con $a \neq 0$) | Cancelar es dividir arriba y abajo por el [[04 - Ecuaciones Lineales y Proporcionalidad\|mismo factor]], y en la suma no hay factor común al total |
+| Cancelar "términos" en una suma: $\frac{a + b}{a} \neq \frac{b}{a}$ (correcto: $1 + \frac{b}{a}$) | Cancelación solo en **productos** ($\frac{ab}{ac} = \frac{b}{c}$, con $a \neq 0$) | Cancelar es dividir arriba y abajo por el [[01.1 - Estructura Algebraica: Términos, Factores y Simplificación\|mismo factor]], y en la suma no hay factor común al total |
 
 ---
 
