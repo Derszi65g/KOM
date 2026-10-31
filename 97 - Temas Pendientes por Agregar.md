@@ -21,7 +21,7 @@ type: roadmap
 
 ## 2. Álgebra
 
-- [ ] **Productos notables y factorización**: $(a-b)^2$, $(a+b)(a-b) = a^2 - b^2$, factor común. *Raíz*: expandir la familia del [[03 - Cuadrado de un Binomio\|cuadrado de binomio]].
+- [x] **Productos notables y factorización**: $(a-b)^2$, $(a+b)(a-b) = a^2 - b^2$, factor común. *Implementado en*: [[03.1 - Métodos de Factorización y Productos Notables]].
 - [ ] **Ecuaciones con literales y parametrizadas**: resolver $ax + b = cx + d$ discutiendo $a = c$. *Raíz*: despejar con letras obliga a separar casos, como la [[06 - Sistemas de Ecuaciones\|clasificación de sistemas]].
 - [ ] **Inecuaciones cuadráticas e intervalos**: resolver $ax^2 + bx + c > 0$ con el discriminante. *Raíz*: la cero de [[05 - Ecuaciones Cuadráticas y Bhaskara\|la parábola]] combinado con la [[09 - Inecuaciones y Valor Absoluto\|dirección de la desigualdad]].
 - [ ] **Radicales**: simplificación, racionalización, restricciones ($x \ge 0$ bajo raíz par). *Raíz*: la lectura del [[09 - Inecuaciones y Valor Absoluto\|valor absoluto]].

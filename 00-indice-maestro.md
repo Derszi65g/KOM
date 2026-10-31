@@ -25,8 +25,10 @@ graph TD
     N02 --> N03["[[03 - Cuadrado de un Binomio]]"]
     N02 --> N05["[[05 - Ecuaciones Cuadráticas y Bhaskara]]"]
     
-    N03 --> N05
+    N03 --> N03_1["[[03.1 - Métodos de Factorización y Productos Notables]]"]
     N03 --> N07["[[07 - Teorema de Pitágoras]]"]
+    
+    N03_1 --> N05
     
     N04 --> N06["[[06 - Sistemas de Ecuaciones]]"]
     N04 --> N10
@@ -44,7 +46,7 @@ graph TD
     classDef avanzado fill:#ffe3cf,stroke:#f2ba94,color:#2b3242
 
     class N01,N01_1,N02 bases
-    class N03,N04,N05,N06 algebra
+    class N03,N03_1,N04,N05,N06 algebra
     class N07,N08 geometria
     class N09,N10 avanzado
 ```
@@ -64,6 +66,9 @@ graph TD
 
 3. **[[03 - Cuadrado de un Binomio]]**  
    *Deducción rigurosa de $(a+b)^2 = a^2 + 2ab + b^2$ aplicando la [[02 - Propiedad Distributiva]] en lugar de memorizar recetarios.*
+
+3.1. **[[03.1 - Métodos de Factorización y Productos Notables]]**  
+   *El camino inverso del desarrollo: factor común, diferencia de cuadrados, trinomio cuadrado perfecto y resolución de cuadráticas con la propiedad del producto cero.*
 
 4. **[[04 - Ecuaciones Lineales y Proporcionalidad]]**  
    *Diferencia entre identidad y ecuación. Resolución con operaciones simétricas en ambos miembros y la [[02 - Propiedad Distributiva]]. Regla de tres simple.*

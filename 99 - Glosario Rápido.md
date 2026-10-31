@@ -99,6 +99,8 @@ cssclasses:
 | ---------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Propiedad Distributiva | $a(b+c) = ab + ac$          | El multiplicador "rompe" el paréntesis distribuyéndose sobre cada término                                |
 | Factor                 | —                           | Cada cantidad que se multiplica en un producto ([[01.1 - Estructura Algebraica: Términos, Factores y Simplificación\|nota]]) |
+| Producto               | $a \cdot b$                 | Resultado de una multiplicación o expresión multiplicativa tratada como bloque                           |
+| Factorización          | —                           | Proceso de convertir una suma o resta de términos en una multiplicación de factores                      |
 | Término                | —                           | Cada parte de una expresión separada por $+$ o $-$ ([[01.1 - Estructura Algebraica: Términos, Factores y Simplificación\|nota]]) |
 | Simplificación         | —                           | Reescribir una expresión en una forma equivalente más compacta y útil sin alterar su valor              |
 | Cancelación aditiva    | $a - a = 0$                 | Anulación de términos opuestos mediante el neutro aditivo ($0$)                                          |

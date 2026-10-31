@@ -51,6 +51,7 @@ $$x^2 + bx + \left(\tfrac{b}{2}\right)^2 = \left(x + \tfrac{b}{2}\right)^2$$
 ## 4. Conexiones
 
 - **Fundamento**: Se deriva directamente de la [[02 - Propiedad Distributiva|distributiva]].
+- **Familia de Factorización**: Se amplía a diferencia de cuadrados y otros casos en [[03.1 - Métodos de Factorización y Productos Notables]].
 - **Deducción de la fórmula cuadrática**: Usada en sentido inverso en [[05 - Ecuaciones Cuadráticas y Bhaskara|la resolvente]].
 - **Geometría**: Sostiene la [[07 - Teorema de Pitágoras|demostración algebraica de Pitágoras]].
 - **Ampliación**: El mismo principio distributivo se extiende al cubo de un binomio y al binomio de Newton.
